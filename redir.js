@@ -1,6 +1,6 @@
 
   javascript:(function(){(function() {
-    let urls = ["", "https://livelovelaugh-karenmeltdown-stfu-gtfo.onrender.com", "https://boredom-remover.474652.workers.dev/","https://one2345678910111213141516171819202122232.onrender.com","https://spicychickensandwichl.game-zone.cf/",]; // Add your list of URLs here
+    let urls = ["https://boredom-remover.474652.workers.dev/","https://karensarewhyredditissopopular.onrender.com","https://chingchonglonglong.gulongzhong.me/",]; // Add your list of URLs here
     let randomUrl = urls[Math.floor(Math.random()*urls.length)]; // Choose a random URL from the list
     var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
     w.document.write('<iframe style="position: absolute;top: 0px;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 99999;height: 100%;" src="' + randomUrl + '"></iframe>');
